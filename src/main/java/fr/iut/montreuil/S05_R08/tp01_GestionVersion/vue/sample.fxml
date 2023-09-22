@@ -1193,7 +1193,7 @@
                         <Font size="15.0" />
                      </font>
                   </Label>
-                  <Label alignment="CENTER" layoutX="27.0" layoutY="408.0" prefHeight="39.0" prefWidth="846.0" text="CYRIAQUE Emilio | CHING Steven" textFill="#f8f2c5">
+                  <Label alignment="CENTER" layoutX="27.0" layoutY="408.0" prefHeight="39.0" prefWidth="846.0" text="CYRIAQUE Emilio | CHING Stenven" textFill="#f8f2c5">
                      <font>
                         <Font size="16.0" />
                      </font>
@@ -1211,7 +1211,7 @@
                         </ImageView>
                         <VBox prefHeight="177.0" prefWidth="618.0">
                            <children>
-                              <Label alignment="CENTER" prefHeight="105.0" prefWidth="886.0" text="Tales of a Blind World" textFill="#d38b0d">
+                              <Label alignment="CENTER" prefHeight="105.0" prefWidth="886.0" text="En routeeeeeeeee !!!!" textFill="#d38b0d">
                                  <font>
                                     <Font size="43.0" />
                                  </font>
