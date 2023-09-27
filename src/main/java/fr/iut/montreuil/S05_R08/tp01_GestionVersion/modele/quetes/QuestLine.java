@@ -17,7 +17,8 @@ public class QuestLine {
         joueur = j;
         quetes = FXCollections.observableArrayList();
         quetes.add(new TalkQuete("Chapitre 0 - 	EN ROUTEEEEE !", "Bievenue a toi,parle au monsieur idiot", 10, "Potion", 1, "spectre"));
-        quetes.add(new TalkQuete("Chapitre 1 - Que l'aventure commence", "Si vous voulez jouer, parle au panneau", 5, "Commit", 1, "vendeur"));
+        quetes.add(new TalkQuete("Chapitre 1 - EN ROUTEEEEE !", "Si vous voulez jouer, parle au panneau	", 5, "Commit", 1, "panneau"));
+ 
         quetes.add(new TalkQuete("Chapitre 1 - Que l'aventure commence", "'Salut à toi héros ici tu trouveras tout ce qu'il te faut, va voir le forgeron pour acheter des armes ou traiter tes minerais'\nAller parler au forgeron au sud de la ville.", 5, "Miel", 1, "upgrader"));
         quetes.add(new LootQuete("Chapitre 1 - Que l'aventure commence", "'Si tu veux acheter du nouveau matos c'est ici que ça se passe ! Tiens d'ailleurs, rend moi un service tu veux.'\nMiner une source de minerai à l'est.", 10, "Fer", 1, "SourceMinerai", 1));
         quetes.add(new TalkQuete("Chapitre 1 - Que l'aventure commence", "'Il faudrait peut-etre que je me renseigne à propos de ce livre, une fois que j'aurai amener la marchandise biensur'\nAmener les minerais au forgeron.", 40, "Fer", 3, "upgrader"));

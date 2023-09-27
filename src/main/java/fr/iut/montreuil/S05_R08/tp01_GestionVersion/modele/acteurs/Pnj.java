@@ -119,7 +119,7 @@ public class Pnj extends Acteur {
                 lines.add("Il a oublié son chapeau! Ya! ");
                 break;
             case "panneau":
-                lines.add("Salut a toi jeune entrepreneur");
+                lines.add("Salut a toi jeune entrepreneur ");
                 break;
             case "épouvantail":
                 lines.add("*C'est la puuuub ?");
